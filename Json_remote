@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "ads_enabled": false,
-  "banner_enabled": false,
-  "native_enabled": false,
-  "interstitial_enabled": false,
-  "rewarded_enabled": false,
-  "app_open_enabled": false,
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "native_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "app_open_enabled": true,
   "ad_units": {
     "android": {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded": "ca-app-pub-3940256099942544/5224354917",
-      "app_open": "ca-app-pub-3940256099942544/9257395921"
+      "banner": "ca-app-pub-3380498514301154/9944325587",
+      "native": "ca-app-pub-3380498514301154/3891595110",
+      "interstitial": "ca-app-pub-3380498514301154/8231788660",
+      "rewarded": "ca-app-pub-3380498514301154/8631243912",
+      "app_open": "ca-app-pub-3380498514301154/1265431775"
     }
   }
 }
